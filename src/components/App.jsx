@@ -30,7 +30,6 @@ export const App = () => {
       default:
         return;
     }
-    countTotalFeedback();
   };
 
   const countTotalFeedback = () => {
